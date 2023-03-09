@@ -1,3 +1,3 @@
-from MLP_api import predict
+from app import predict
 
 app = predict()
